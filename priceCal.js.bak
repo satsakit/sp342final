@@ -12,7 +12,7 @@ function priceCalculate() {
    return  ticknum * 100;
 }
 }
-  
-
+  return 0;
+}
 
 
